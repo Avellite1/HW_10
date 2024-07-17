@@ -1,0 +1,73 @@
+    1  cd desktop
+    2  cd gitignore
+    3  cd man
+    4  cd gitignore
+    5  cd c:/Users/Admin/Desktop/Testing/ДЗ
+    6  cd c:/Users/Admin/Desktop/Testing/ДЗ/GitBach
+    7  pwd
+    8  data
+    9  pwd
+   10  cd~
+   11  cd D
+   12  clear
+   13  cd D
+   14  git config -global user.name Avellite1
+   15  git config -global user.email avellite.f@gmail.com
+   16  git config global user.name Avellite1
+   17  git config global user.email avellite.f@gmail.com
+   18  git config --global user.name Avellite1
+   19  git config --global user.email avellite.f@gmail.com
+   20  text_ignore.txt
+   21  [200~
+   22  echo text_ignore.txt > .gitignore
+   23  cd desktop/testing/ДЗ/GitBach
+   24  cd gitignore
+   25  cd [200~Desktop/Testing/ДЗ/GitBach
+   26  cd /Desktop/Testing/ДЗ/GitBach
+   27  [200~
+   28  cd ~
+   29  cd /
+   30  pwd
+   31  data
+   32  pwd
+   33  clear
+   34  cd git-
+   35  touch empty.txt
+   36  clear
+   37  C:\Users\Admin\Desktop\Testing\ДЗ touch empty.txt
+   38  [200~
+   39  touch empty.txt
+   40  cd /c/Users/Admin/Desktop/Testing/ДЗ/GitBach
+   41  git clone https://github.com/Avellite1/HW_10.git
+   42  cd HW_10
+   43  touch text_ignore.txt
+   44  [200~
+   45  echo text_ignore.txt > .gitignore
+   46  git status
+   47  git add
+   48  commit
+   49  git add .
+   50  commit
+   51  git commit
+   52  git commit -m "text_ignore.txt was ignored"
+   53  main_test.txt
+   54  touch main_test.txt
+   55  git add,
+   56  git commit -m "main_test.txt was ignored"
+   57  git commit -m "main_test.txt was added"
+   58  git add .
+   59  git commit -m "main_test.txt was added"
+   60  git checkout -b develop
+   61  touch develop_test.txt
+   62  git add .
+   63  git commit -m "develop_test.txt was added"
+   64  [200~echo 1111111111 > develop_test.txt~
+   65  echo 1111111111 > develop_test.txt
+   66  git status
+   67  git add .
+   68  git commit -m "develop_test.txt was changed"
+   69  git checkout main
+   70  git branch
+   71  git merge develop
+   72  git log
+   73  history > command_list.csv
